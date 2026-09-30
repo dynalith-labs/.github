@@ -5,7 +5,7 @@
 **Engineering Deterministic Foundation Models for Code & Systems Intelligence**
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dynalith%20Labs-FBBF24?style=flat-square)](https://huggingface.co/dynalith-labs)
-[![X](https://img.shields.io/badge/X-%40dynalith__labs-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dynalith_labs)
+[![X](https://img.shields.io/badge/X-%40dynalith__labs-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/@Dynalithlabs)
 [![License](https://img.shields.io/badge/License-Apache%202.0-0284C7?style=flat-square)](LICENSE)
 
 </div>
@@ -42,7 +42,7 @@ Modern code generation models frequently suffer from syntactic hallucinations, n
 ### 🔗 Connect & Ecosystem
 
 * **Hugging Face Hub:** [huggingface.co/dynalith-labs](https://huggingface.co/dynalith-labs)
-* **X (Twitter):** [@dynalith_labs](https://x.com/dynalith_labs)
+* **X (Twitter):** [@dynalith_labs](https://x.com/@Dynalithlabs)
 * **Organization:** [github.com/dynalith-labs](https://github.com/dynalith-labs)
 
 ---
